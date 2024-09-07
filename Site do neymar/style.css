@@ -1,0 +1,81 @@
+@charset "UFT-8";
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+
+
+h2 {
+    color: rgb(22, 81, 148);
+    text-align: center;
+    font-size: 45px;
+    background-color: #333;
+    border-radius: 20px;
+}
+
+img#Neymar {
+    float: left; 
+    max-width: 100%;
+    border-radius: 8px;}
+
+p {
+    font-size: 24px;
+}
+
+main {
+    color: #333;
+}
+
+img#Neymar_no_Santos {
+    float: right;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+img#Neymar_no_barcelona {
+    float: left;
+    margin-top: -40px;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+h2#PSG {
+    margin-top: 110px;
+}
+
+img#Neymar_no_psg {
+    float: right;
+    margin-top: -70px;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+h2#carreira_internacional {
+    margin-top: 70px;
+}
+
+img#carreira_internacional {
+    float: left;
+    margin-top: -40px;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+img#neymar {
+    margin-top: 40px;
+    border-radius: 20px;
+    margin-top: -20px;
+}
+
+h2#ultimo_h1 {
+    margin-top: 10px;
+    }
